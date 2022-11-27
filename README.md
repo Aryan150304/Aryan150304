@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects related to machine learning and web devlopment
 - 📫 Reach me :
 My linked in https://www.linkedin.com/in/aryan-malik-150307ar/
+
 e-mail: malikaryan16fzr@gmail.com
 <!---
 Aryan150304/Aryan150304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
